@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related to prod APIs"
+  message: "Welcome to EazyBank accounts related to production APIs"
   contactDetails:
     name: "Santhosh-Product owner"
     email: "{cipher}98b86e873e9727df4982e65fa9414ef7a30a40b9d7ac1c0435a1e2642ad9cddb8c9c1b7d6a68544908194181aa75e602"
