@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to EazyBank accounts related label APIs"
+  contactDetails:
+    name: "Santhosh"
+    email: "santhosh@gmail.com"
+  onCallSupport:
+    - (+91)9600210910
